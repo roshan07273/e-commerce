@@ -1,3 +1,8 @@
+# DEMO IMAGES
+<img width="956" alt="image" src="https://github.com/roshan07273/e-commerce/assets/77711686/e7afc74a-2947-4f72-b686-87617f6720b3">
+<img width="917" alt="image" src="https://github.com/roshan07273/e-commerce/assets/77711686/bff1edfb-3762-44dc-b041-d51b21961abc">
+<img width="914" alt="image" src="https://github.com/roshan07273/e-commerce/assets/77711686/631fabbf-ef45-4e8e-823f-e4bf34ac8463">
+
 # Payload E-Commerce Template
 
 This is the official [Payload E-Commerce Template](https://github.com/payloadcms/payload/blob/main/templates/ecommerce). Use it to power e-commerce businesses and online stores of all sizes. This repo includes a fully-working backend, enterprise-grade admin panel, and a beautifully designed, production-ready website.
